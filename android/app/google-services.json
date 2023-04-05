@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839929137025",
+    "project_id": "mangalyam360-app",
+    "storage_bucket": "mangalyam360-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839929137025:android:e9b9e9ba98f2c71c31ca80",
+        "android_client_info": {
+          "package_name": "com.example.mangalyam360app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839929137025-fctcvqae0923k2vm7rogdekgoj9e4oq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1-tU_KfFMEDQ7qvygdH8DrQJxGdrgPjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839929137025-fctcvqae0923k2vm7rogdekgoj9e4oq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
